@@ -256,7 +256,7 @@ Here is what we are going to do;
 
 In your github UI, you can create a repository by pressing the + button on top right. When you create it, it will be similar to the following;
 
-![creating-a-github-project](https://github.com/bzdgn/git-tutorial/blob/main/misc/01-create-repo.PNG?raw=true)
+![creating-a-github-project](https://raw.githubusercontent.com/pedropbazzo/git-tutorial/main/misc/01-create-repo.png)
 
 You can see that initially you can add a README.md file, and also a .gitignore file (will be discussed later) but you don't have to do that, you can also add them after you create your project. 
 
