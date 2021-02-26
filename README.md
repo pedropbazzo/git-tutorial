@@ -282,7 +282,7 @@ git push
 
 **git push** command (actually you can explicitly the branch name if you are working with multiple branch, but this will push to the only branch which is main), will push the committed changes to the server. Then you can check via github to see the changes. You will see the **content.txt** file now;
 
-![pushed-repo](https://github.com/bzdgn/git-tutorial/blob/main/misc/03-pushed-repo.PNG?raw=true)
+![pushed-repo](https://raw.githubusercontent.com/pedropbazzo/git-tutorial/main/misc/03-pushed-repo.png)
 
 [Go back to TOC](#toc)
 
