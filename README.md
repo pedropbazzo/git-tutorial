@@ -262,7 +262,7 @@ You can see that initially you can add a README.md file, and also a .gitignore f
 
 After you create the project in the server (github), in order to work with that repository, you have to clone it on your local branch. There is a section with **https/ssh**, as you can see in the following capture;
 
-![created-repo](https://github.com/bzdgn/git-tutorial/blob/main/misc/02-created-repo.PNG?raw=true)
+![created-repo](https://raw.githubusercontent.com/pedropbazzo/git-tutorial/main/misc/02-created-repo.png)
 
 You can use that link, via an **ssh** or an **https** protocol (I use **ssh** always if possible), and clone it to your local environment. Cloning means, you copy everything that the repo in the server has;
 
